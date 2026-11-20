@@ -1,0 +1,5 @@
+=== RÉSUMÉ ===
+Nombre de questions : 40
+Recall@5 : 92.50%
+Latence moyenne : 5.21s
+Score moyen (jugement LLM) : 3.75/5

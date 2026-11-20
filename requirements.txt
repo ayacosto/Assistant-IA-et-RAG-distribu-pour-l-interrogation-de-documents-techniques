@@ -1,0 +1,14 @@
+pymupdf4llm
+pyspark
+pyarrow
+sentence-transformers
+langchain-text-splitters
+huggingface_hub
+faiss-cpu
+pandas
+numpy
+groq
+gradio
+fastapi
+uvicorn
+python-dotenv
